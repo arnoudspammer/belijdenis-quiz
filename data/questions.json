@@ -1,0 +1,112 @@
+[
+  {
+    "id": "hc-1",
+    "source": "Heidelbergse Catechismus (Zondag 1, Vraag 1)",
+    "question": "Wat is uw enige troost, beide in leven en sterven?",
+    "correctAnswer": "Dat ik met lichaam en ziel, beide in leven en sterven, niet mijn, maar mijns getrouwen Zaligmakers Jezus Christus eigen ben.",
+    "wrongAnswers": [
+      "Dat ik door mijn goede werken de hemel mag verdienen en God tevreden stel.",
+      "Dat God liefde is en uiteindelijk alle mensen in de hemel zal opnemen.",
+      "Dat ik gezond mag blijven en in voorspoed mag leven hier op aarde."
+    ]
+  },
+  {
+    "id": "hc-2",
+    "source": "Heidelbergse Catechismus (Zondag 1, Vraag 2)",
+    "question": "Hoeveel stukken zijn u nodig te weten, opdat u in deze troost zalig leven en sterven mag?",
+    "correctAnswer": "Drie stukken: ten eerste, hoe groot mijn zonden en ellende zijn; ten tweede, hoe ik van al mijn zonden verlost word; ten derde, hoe ik God daarvoor dankbaar moet zijn.",
+    "wrongAnswers": [
+      "Twee stukken: God liefhebben en mijn naaste liefhebben.",
+      "Vier stukken: geloof, hoop, liefde, en goede werken.",
+      "Eén stuk: geloven dat de Bijbel Gods Woord is."
+    ]
+  },
+  {
+    "id": "hc-7",
+    "source": "Heidelbergse Catechismus (Zondag 7, Vraag 20)",
+    "question": "Worden dan alle mensen wederom door Christus behouden, zoals zij door Adam zijn verdoemd?",
+    "correctAnswer": "Nee, maar alleen degenen die door een waar geloof Hem worden ingelijfd en al Zijn weldaden aannemen.",
+    "wrongAnswers": [
+      "Ja, Christus is voor allen gestorven, dus iedereen wordt gered.",
+      "Alleen de mensen die nooit zwaar gezondigd hebben.",
+      "Alleen de joden en degenen die de wet van Mozes houden."
+    ]
+  },
+  {
+    "id": "hc-21",
+    "source": "Heidelbergse Catechismus (Zondag 7, Vraag 21)",
+    "question": "Wat is een waar geloof?",
+    "correctAnswer": "Een stellig weten of kennis en een vast vertrouwen, door de Heilige Geest in mijn hart gewerkt.",
+    "wrongAnswers": [
+      "Een gevoel in het hart dat God dichtbij is.",
+      "Het voor waar houden van alles wat de kerk leert.",
+      "Hopen dat het met je ziel goed komt en een net leven leiden."
+    ]
+  },
+  {
+    "id": "dl-1-1",
+    "source": "Dordtse Leerregels (Hoofdstuk 1, Art. 1)",
+    "question": "Wat hebben alle mensen in Adam verdiend?",
+    "correctAnswer": "Omdat alle mensen in Adam gezondigd hebben, zijn zij de vloek en de eeuwige dood schuldig geworden.",
+    "wrongAnswers": [
+      "Een tweede kans om door goede werken de hemel te verdienen.",
+      "Slechts een lichamelijke dood, maar de ziel is van nature rein gebleven.",
+      "Ziekte en tegenspoed, maar geen oordeel in het hiernamaals."
+    ]
+  },
+  {
+    "id": "dl-1-7",
+    "source": "Dordtse Leerregels (Hoofdstuk 1, Art. 7 - Verkiezing)",
+    "question": "Waarop is Gods eeuwige verkiezing gebaseerd?",
+    "correctAnswer": "Op Zijn loutere genade en vrije wil, niet op voorzien geloof of goede werken in de mens.",
+    "wrongAnswers": [
+      "Op het feit dat God van tevoren zag wie er in Hem zou gaan geloven.",
+      "Op de goede werken die een mens in zijn leven zou gaan doen.",
+      "Op de doop en de trouwe kerkgang van de betreffende persoon."
+    ]
+  },
+  {
+    "id": "dl-2-8",
+    "source": "Dordtse Leerregels (Hoofdstuk 2, Art. 8 - Verzoening)",
+    "question": "Voor wie is het borgtochtelijk lijden en sterven van Christus op het kruis bedoeld tot redding?",
+    "correctAnswer": "Voor alle uitverkorenen; Hij heeft hen, en hen alleen, het ware geloof en de zaligheid geschonken.",
+    "wrongAnswers": [
+      "Voor elk mens op aarde, zodat de redding afhankelijk is van hun eigen keuze.",
+      "Alleen voor het Joodse volk en de apostelen.",
+      "Voor de engelen en de rechtvaardige mensen."
+    ]
+  },
+  {
+    "id": "dl-3-4",
+    "source": "Dordtse Leerregels (Hoofdstuk 3/4, Art. 3 - Verdorvenheid)",
+    "question": "Hoe staat de mens na de val ten opzichte van het goede?",
+    "correctAnswer": "De mens is volkomen onbekwaam tot enig zaligmakend goed en geneigd tot alle kwaad.",
+    "wrongAnswers": [
+      "De mens kan vanuit zichzelf nog wel voor God kiezen, maar met moeite.",
+      "De mens is geneigd tot het goede, mits hij een goede opvoeding krijgt.",
+      "Zonde is alleen iets uiterlijks, in het diepst van zijn ziel is de mens goed."
+    ]
+  },
+  {
+    "id": "dl-5-3",
+    "source": "Dordtse Leerregels (Hoofdstuk 5, Art. 3 - Volharding)",
+    "question": "Hoe is het mogelijk dat gelovigen niet volledig van het geloof afvallen ondanks hun zonden?",
+    "correctAnswer": "Niet door hun eigen kracht, maar door Gods barmhartigheid, Die hen bewaart en de Geest niet van hen wegneemt.",
+    "wrongAnswers": [
+      "Omdat een gelovige na zijn bekering geen zonden meer kan begaan.",
+      "Omdat zij zelf hard hun best doen om trouw te blijven.",
+      "Omdat God de zonden van gelovigen niet meer ziet of erg vindt."
+    ]
+  },
+  {
+    "id": "nbf-1",
+    "source": "Nederlandse Geloofsbelijdenis (Art. 2)",
+    "question": "Door welke twee middelen kennen wij God?",
+    "correctAnswer": "Door de schepping/onderhouding van de wereld, en nog duidelijker door Zijn heilig Woord.",
+    "wrongAnswers": [
+      "Door wetenschappelijk onderzoek en menselijk verstand.",
+      "Door innerlijke stemmen en dromen.",
+      "Door de traditie van de kerk en besluiten van concilies."
+    ]
+  }
+]
